@@ -6,6 +6,7 @@ Our client is interested in starting a bike sharing company in Des Moines, simil
 ## Data and Software
 Data:
 Citibike Data: https://ride.citibikenyc.com/system-data (Data from August 2019 was used)
+
 Software:
 Tableau, Python, and Pandas
 
