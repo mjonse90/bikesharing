@@ -55,7 +55,7 @@ The next heatmap compares female, male, and unknown gender rideship to hours of 
 
 ### Checkout Times for Genders
 
-And finally, when looking at trip durations by gender, males make the most. But males and females both take the close to the same duration of trips, around 30 minutes or less.
+And finally, when looking at trip durations by gender, males make the most. But males and females both take close to the same duration of trips, around 30 minutes or less.
 
 <img width="1273" alt="Checkout times for genders" src="https://user-images.githubusercontent.com/103767830/190681074-882f164e-ab47-4f53-9bf3-a54adf961e2a.png">
 
