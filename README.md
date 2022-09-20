@@ -61,3 +61,8 @@ And finally, when looking at trip durations by gender, males make the most. But 
 
 <img width="1273" alt="Checkout times for genders" src="https://user-images.githubusercontent.com/103767830/190681074-882f164e-ab47-4f53-9bf3-a54adf961e2a.png">
 
+## Summary
+The Citibike bike sharing program in New York City is proven to be extremely successful. The most active time for ridership in New York is during the morning and evening rush hours, as well as consistent high usage during the daytime hours of the weekend. Additionally, ridership breakdown by gender also proves that people who identify as men ride more than people who identify as women by a margin of over 3 to 1. This poses the possibility of a wide untapped market among women. Finally, across all riders, trips are relatively short. A majority of rides are 5 minute or less, with the remainder of them being 30 minutes or less. This suggests that, due to New York's high population density, as well as a vast amount of jobs and attractions, that most riders are choosing to bike within just a mile, or so, radius of their starting point.
+
+I do have two suggestions for additional visualizations for future analysis. One being a map of the New York city street grids where bike lane are accesible and then compare the top starting and ending locations to their proximity to the bike lanes. Does ridership increase along these routes? A second suggestion for future analysis would be to see the distance for each rider. We know that most rides taken are about 5 minutes. But knowing the distance of each ride could give insight to placement of more bike docks, maintenance kiosks, etc.
+
