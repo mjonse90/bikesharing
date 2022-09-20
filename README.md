@@ -3,7 +3,7 @@
 ## Overview of the statistical analysis
 Our client is interested in starting a bike sharing company in Des Moines, similar to Citibike in New York City. In order to convince investors that the program would work, an analysis was conducted with data from August 2019 in New York City based off the current Citibike ride-share company.
 
-[link to dashboard](https://public.tableau.com/app/profile/mark2407/viz/Mod14CitibikeChallenge/NYCCitibikeChallenge?publish=yes "link to dashboard")
+[Tableau Story](https://public.tableau.com/app/profile/mark2407/viz/Mod14CitibikeChallenge/NYCCitibikeChallenge?publish=yes "Tableau Story")
 
 ## Data and Software
 Data:
